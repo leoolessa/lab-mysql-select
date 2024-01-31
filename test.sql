@@ -87,3 +87,5 @@ DROP COLUMN picture;
 # 20
 INSERT INTO staff VALUES
 (3, 'TAMMY', 'SANDERS','79', 'TAMMY.SANDERS@sakilacustomer.org','2', '1', 'TAMMY', ' ', '2014-01-30:05:38:01');
+
+#21
